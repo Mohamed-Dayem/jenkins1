@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: Demo
+  name: Demo1
   labels:
     app: example
 spec:
